@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wp_test
+Data file = C:\xampp\htdocs\wp_test\wp-content\plugins\airi-demo-importer/demo-content/airi-dc-agency.xml
+Widget file = C:\xampp\htdocs\wp_test\wp-content\plugins\airi-demo-importer/demo-content/airi-w-agency.wie
+Customizer file = C:\xampp\htdocs\wp_test\wp-content\plugins\airi-demo-importer/demo-content/airi-c-agency.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Widget already exists
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Footer 1 : 
+
+Text - No Title - Imported
+
+Footer 2 : 
+
+Text - Contact us - Imported
+
+Footer 3 : 
+
+Navigation Menu - Quick links - Imported
+
+Footer 4 : 
+
+Airi: Social Profile - Follow us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
